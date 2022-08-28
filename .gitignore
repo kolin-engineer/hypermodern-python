@@ -1,0 +1,9 @@
+.pyc
+.python-version
+
+env
+venv
+
+.env
+.venv
+
